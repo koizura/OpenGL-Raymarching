@@ -1,5 +1,5 @@
 # OpenGL-Raymarching
-Raymarching shader in openGL as my second project in openGL (first one being the "Hello World" of computer graphics, drawing a triangle!)
+Raymarching shader in openGL as my first actual project in openGL (first one being the "Hello World" of computer graphics, drawing a triangle!)
 
 Currently learning c++, openGL, and GLSL.
 
